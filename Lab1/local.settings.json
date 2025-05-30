@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=lab1functionapp;AccountKey=nuD7r6qluiAKUj+rmzGUekdniY6VKyqzY/cHQIvlNxiV9jFPh3GKkMHc1kH99XPciI3YCWmXdZjz+AStTwn3Jg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DEPLOYMENT_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=lab1functionapp;AccountKey=nuD7r6qluiAKUj+rmzGUekdniY6VKyqzY/cHQIvlNxiV9jFPh3GKkMHc1kH99XPciI3YCWmXdZjz+AStTwn3Jg==;EndpointSuffix=core.windows.net",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=75aff1ab-83e7-4c9f-b493-46af1e6f0a15;IngestionEndpoint=https://canadacentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://canadacentral.livediagnostics.monitor.azure.com/;ApplicationId=e412937d-8552-403f-bcdf-6d1f3ea120e5",
+    "SqlConnectionString": "Server=tcp:nidhi-databse-server.database.windows.net,1433;Initial Catalog=myDatabase;Persist Security Info=False;User ID=nidhi;Password=Azure123456;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
